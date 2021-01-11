@@ -1,0 +1,12 @@
+.top-players{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+}
+.player img{
+    height: 50px;
+
+}
+.player{
+    display: flex;
+}
